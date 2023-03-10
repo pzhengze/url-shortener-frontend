@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Frontend for url shortener
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Submission for GovTech GoWhere Internship Tech Test. This project was made in conjuction with the NestJs backend available [here](https://github.com/pzhengze/url-shortener) and deployed [here](https://shortenurl.up.railway.app/). This project is deployed [here](https://shortenurlfrontend.up.railway.app/)
 
 ## Available Scripts
 
