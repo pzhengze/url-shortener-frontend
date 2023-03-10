@@ -10,7 +10,7 @@ function App() {
         // Prevent the browser from reloading the page
         e.preventDefault();
         
-        axios.post('https://shortenurl.up.rail.app/shorten', {"url": url})
+        axios.post('https://shortenurl.up.railway.app/shorten', {"url": url})
         .then(res => {
             console.log(res);
             console.log(res.data);
